@@ -1,4 +1,3 @@
-### Hi my name is S1 
 
 ## Languages:
 
