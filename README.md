@@ -1,6 +1,6 @@
 
 ### Hi, my name is S1 
-## I started coding 1 year ago, and my goal is to keep it up and become a front-end or even a full stack developer, my goal is to do a CS degree later in life.
+### I started coding 1 year ago, and my goal is to keep it up and become a front-end or even a full stack developer, my goal is to do a CS degree later in life.
 
 ## Languages:
 
