@@ -1,6 +1,5 @@
 
 ### Hi, my name is S1 / N.I
-### My goal in life is to be a master at Julia
 
 ## Languages:
 
