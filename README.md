@@ -1,5 +1,5 @@
 
-### Hi, my name is S1 / N.I
+### Hi, my name is S1
 
 ## Languages:
 
