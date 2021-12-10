@@ -4,7 +4,6 @@
 ## Languages:
 
 - Lua
-- SQL
 - HTML & CSS
 
 ## Languages that I am learning right now:
